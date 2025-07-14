@@ -5,7 +5,7 @@
 ## 使用方法
 
 動画で説明してます
-  - [ニコニコ動画](https://www.nicovideo.jp/watch/)
+  - [ニコニコ動画](https://www.nicovideo.jp/watch/sm45186039)
 
 ## YouTubeから動画を持ってくる方法
 
