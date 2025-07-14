@@ -11,8 +11,8 @@
 
 YouTubeの動画を利用するには、追加で以下のプログラムが必要です。
 
--   **ffmpeg**: [公式サイト](https://www.gyan.dev/ffmpeg/builds/)
--   **yt-dlp**: [GitHubリリースページ](https://github.com/yt-dlp/yt-dlp)
+-   **ffmpeg**: [配布ページ](https://www.gyan.dev/ffmpeg/builds/)
+-   **yt-dlp**: [GitHub](https://github.com/yt-dlp/yt-dlp)
 
 `ffmpeg`は解凍後の`bin`フォルダから`ffmpeg.exe`を、`yt-dlp`はリリースページから`yt-dlp.exe`をダウンロードし、`歌詞挿入ツール.exe`と同じディレクトリ内に配置してください。
 
